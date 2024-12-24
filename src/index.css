@@ -1,0 +1,15 @@
+
+  
+  :root {
+    --grey-color: #7f8c8d;
+  }
+
+  ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+  }
+
+  a {
+    text-decoration: none;
+  }

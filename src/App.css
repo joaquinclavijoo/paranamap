@@ -1,0 +1,41 @@
+.sidebar {
+    margin: top;
+    background: #9c88ff;
+    position: absolute;
+    position-area: ;
+    top: 0;
+    left: 0;
+    width: 17em;
+  height: 100%;
+  font-size: large;
+  padding: 1em;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);  
+}
+
+.map {
+    width: right;
+    position:absolute;
+    top: 0;
+    left: 30em;
+    width: calc(100% - 17em);
+    height: 100vh;
+    z-index: 3;
+}
+
+.parana p {
+  margin: 10px 0;
+  font-size: 14px;
+  line-height: 1;
+  height: auto;
+  
+}
+
+.parana div {
+ 
+  cursor: pointer;
+}
+
+.parana div:hover {
+  color: #5d6d7e;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
